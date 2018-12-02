@@ -5,6 +5,7 @@ import joanneImage from "../../images/joanne-lannon.jpg";
 import kathleenImage from "../../images/kathleen-oates.jpg";
 import elizabethImage from "../../images/elizabeth-mullady.jpg";
 import glennImage from "../../images/glenn-bouchie.jpg";
+import kateImage from "../../images/kate-lannon.png";
 
 import linkedinGreen from "../../images/linkedin-green.png";
 import paperPlane from "../../images/paper-plane.png";
@@ -136,7 +137,7 @@ const Team = () => (
 
 <div className="xsm:w-1/1 sm:w-1/2 md:w-1/2 lg:w-1/3 ">
   <div className= "team">
-  <img src={regulatoryImage}/>
+  <img src={kateImage}/>
   <h3>Kate Lannon</h3>
         <h5>Nurse Regulatory Consultant</h5>
           <p>Kate Lannon is a board registered RN with a BS in Nursing from Villanova University. She is also certified as a CCRN.  Kate has 17 years of nursing experience of which 10 years have been working as a Cardiac Critical Care nurse at Tufts Medical Center in Boston.  In addition, Kate has experience working over the past 3 years in the Electrophysiology lab and as a per diem employee of Baim Institute for Clinical Research, where she is responsible for writing adverse events for clinical trials.</p>
