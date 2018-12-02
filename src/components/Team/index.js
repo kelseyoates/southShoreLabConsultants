@@ -140,8 +140,8 @@ const Team = () => (
   <img src={kateImage}/>
   <h3>Kate Lannon</h3>
         <h5>Nurse Regulatory Consultant</h5>
-          <p>Kate Lannon is a board registered RN with a BS in Nursing from Villanova University. She is also certified as a CCRN.  Kate has 17 years of nursing experience of which 10 years have been working as a Cardiac Critical Care nurse at Tufts Medical Center in Boston.  In addition, Kate has experience working over the past 3 years in the Electrophysiology lab and as a per diem employee of Baim Institute for Clinical Research, where she is responsible for writing adverse events for clinical trials.</p>
-          <p>In her role at SSLC as a Nurse Regulatory Consultant, Kate is responsible for assisting our team with Point of Care auditing.  </p>
+          <p>Kate Lannon is a board registered RN with a BS in Nursing from Villanova University and is certified as a CCRN.  Kate has more than 15 years of nursing experience working as a cardiac critical care nurse and as a nurse in the electrophysiology lab at an academic medial center in Boston. In addition, Kate works per diem at a medical research institute documenting adverse events for clinical trials.</p>
+          <p>At SSLC, Kate is our Nurse Regulatory Consultant and assists our team with point of care (POC) test auditing.</p>
       </div>
   </div>
 
