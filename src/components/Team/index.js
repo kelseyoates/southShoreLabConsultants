@@ -116,7 +116,7 @@ const Team = () => (
 <div className="xsm:w-1/1 sm:w-1/2 md:w-1/2 lg:w-1/3 ">
   <div className= "team">
   <img src={elizabethImage}/>
-  <h3>Elizabeth Mullady, MT (ASCP)</h3>
+  <h3>Elizabeth Mullady, MLS(ASCP)<sup>CM</sup>, MHA</h3>
         <h5>Senior Regulatory Consultant</h5>
           <p>Elizabeth Mullady is an ASCP Board registered Medical Laboratory Scientist with a Masters degree in Health Care Administration. She has 15 years of experience in clinical laboratories, first as a technologist in the Infection Disease Diagnostic lab at Boston Children’s Hospital and then in the quality assurance and regulatory affairs field in a molecular genetics lab. </p>
           <p>In her role as Director of Quality Assurance and Regulatory Affairs she was responsible to maintain the lab in a constant state of regulatory readiness while keeping the wheel of continual process improvement rolling. Elizabeth led the lab through the renewal of their CLIA certificate, gaining ISO 15189 accreditation, and securing licenses with Massachusetts, Rhode Island, Pennsylvania, Maryland, Florida, California, and New York State.</p>
