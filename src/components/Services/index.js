@@ -44,9 +44,13 @@ const Services = () => (
   <div className= "services">
   <img src={shieldImage} className="x-small"/>
     <h3>Complete Quality Assurance</h3>
-    <p>As part of our ongoing support, we provide consistent QA Reviews - comprehensive audits of all required pre - analytic, analytic, and post - analytic laboratory operations using fixed quality monitors.</p>
-      <p>Our QA Reviews also ensure that the quality of your key systems such as QA, QC, Proficiency Testing, Equipment Maintenance, and Training / Competency are always maintained at the highest level.</p>
-      <p>After the reports, we’ll be there for any corrective and preventative actions that may arise, including assistance with required Procedure Manual documentation: MA / CLIA / CAP / NY - compliant policy and procedural templates are provided.Let us know what you need and we can start working together today.</p>
+
+<p>As part of our ongoing support, we provide Quality Assurance Reviews throughout the year which are comprehensive audits of all required pre-analytic, analytic, and post-analytic laboratory operations using fixed quality monitors.</p>
+
+<p>Our QA Reviews also ensure that the quality of your key systems such as QA, QC, Proficiency Testing, Equipment Maintenance, and Training/Competency records are always maintained at the highest level.</p>
+
+<p>After the reports, we’ll be there for any corrective and preventative actions that may arise, including assistance with required Procedure Manual documentation: MA/CLIA /CAP/NY - compliant policy and procedural templates are provided. Let us know what you need and we can start working together today.</p>
+
   </div>
 </div>
 
