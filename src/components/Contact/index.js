@@ -72,6 +72,7 @@ export default class ContactForm extends React.Component {
           type="text" name="name" onChange={this.handleChange} />
         </label>
       </p>
+      
       <p>
         <label className="block font-bold form text-xs uppercase">
           Your email:<br />
@@ -93,7 +94,7 @@ export default class ContactForm extends React.Component {
           name="how" onChange={this.handleChange} />
         </label>
       </p>
-      <p>
+    
       
       <p>
         <label className="block font-bold form text-xs uppercase">
