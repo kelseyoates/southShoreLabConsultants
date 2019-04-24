@@ -82,6 +82,19 @@ export default class ContactForm extends React.Component {
           name="email" onChange={this.handleChange} />
         </label>
       </p>
+      
+      <p>
+        <label className="block font-bold form text-xs uppercase">
+          How did you hear about us?:<br />
+          <textarea 
+          className="appearance-none block bg-grey-lighter p-3 rounded-md text-grey-darker w-full"
+        
+          placeholder="Linked In"
+          name="how" onChange={this.handleChange} />
+        </label>
+      </p>
+      <p>
+      
       <p>
         <label className="block font-bold form text-xs uppercase">
           Message:<br />
