@@ -180,6 +180,29 @@ const Testimonials = () => (
 <div className="xsm:w-1/1 sm:w-1/2 md:w-1/2 py-8">
     <div className="testimonial"></div>
 
+
+
+
+
+<div className="testimonial"><label className="accordion">
+					<input type='checkbox' name='checkbox-accordion'></input>
+					<div className="accordion__header">Narges Rashidi, PhD
+          <h6>Olink Proteomics</h6>
+          </div>
+					<div className="accordion__content">
+          <h6>Sr. Field Application Scientist</h6>
+	<p>“We have been working with SSLC for the past year to get our Boston lab certified as a high complexity CLIA lab. Joanne and Glenn have been extremely professional, resourceful, and communicative guiding us through all the stages of this path and educating our team on all the different aspects of CLIA regulation.</p>
+            <p>"Our customers demand high standards from Olink Proteomics and SSLC certainly helps us to deliver on that!</p>
+            <p>"I have already recommended SSLC to many of our external colleagues and will keep doing so without any reservations. You make it so simple!”</p>
+					</div>
+				</label></div>
+
+
+
+
+
+
+
 <div className="testimonial"><label className="accordion">
 					<input type='checkbox' name='checkbox-accordion'></input>
 					<div className="accordion__header">Olga Pozdnyakova, MD, PhD
