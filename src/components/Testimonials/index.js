@@ -183,6 +183,21 @@ const Testimonials = () => (
 
 
 
+<div className="testimonial"><label className="accordion">
+					<input type='checkbox' name='checkbox-accordion'></input>
+					<div className="accordion__header">
+Deborah DiNoto, M.S.
+          <h6>Sanofi U.S.</h6>
+          </div>
+					<div className="accordion__content">
+          <h6>Associate Vice President of Translational Medicine and Early Development Project Operations</h6>
+	<p>“I cannot say enough about South Shore Lab Consultants and the support they provided us with our regulatory and licensure needs for the Clinical Specialty Lab.</p><p> Joanne and her team have been excellent in their support in providing advice, preparing for inspections, point on with their professionalism in assisting with connections to state organizations, and excellent at delivering clear and concise information regarding compliance.</p><p> I would like to extend a thank you to the team for all of their efforts and I highly recommend South Shore Laboratory Consultants to support your laboratory activities.</p>
+
+					</div>
+				</label></div>
+
+
+
 
 <div className="testimonial"><label className="accordion">
 					<input type='checkbox' name='checkbox-accordion'></input>
@@ -326,17 +341,17 @@ const Testimonials = () => (
 					</div>
 				</label></div>
 
-<div className="testimonial">        <label className="accordion">
-					<input type='checkbox' name='checkbox-accordion'></input>
-					<div className="accordion__header">Clayton M. Sparks, Operations Manager
-          <h6>CVS</h6>
-          </div>
-					<div className="accordion__content">
-          <h6>CVS Caremark</h6>
-						<p>"I found Ms. Lannon to be professional, timely in her responses, and able to remain current on all regulations.</p>
-            <p> "In addition, SSLC provided research on various regulations and was able to initiate and secure the appropriate contact in the states of MA, PA, and the District of Columbia that enabled our clinic services to open on strict timelines."</p>
-					</div>
-				</label></div>
+// <div className="testimonial">        <label className="accordion">
+// 					<input type='checkbox' name='checkbox-accordion'></input>
+// 					<div className="accordion__header">Clayton M. Sparks, Operations Manager
+//           <h6>CVS</h6>
+//           </div>
+// 					<div className="accordion__content">
+//           <h6>CVS Caremark</h6>
+// 						<p>"I found Ms. Lannon to be professional, timely in her responses, and able to remain current on all regulations.</p>
+//             <p> "In addition, SSLC provided research on various regulations and was able to initiate and secure the appropriate contact in the states of MA, PA, and the District of Columbia that enabled our clinic services to open on strict timelines."</p>
+// 					</div>
+// 				</label></div>
 
 </div>
 
