@@ -341,17 +341,6 @@ Deborah DiNoto, M.S.
 					</div>
 				</label></div>
 
-// <div className="testimonial">        <label className="accordion">
-// 					<input type='checkbox' name='checkbox-accordion'></input>
-// 					<div className="accordion__header">Clayton M. Sparks, Operations Manager
-//           <h6>CVS</h6>
-//           </div>
-// 					<div className="accordion__content">
-//           <h6>CVS Caremark</h6>
-// 						<p>"I found Ms. Lannon to be professional, timely in her responses, and able to remain current on all regulations.</p>
-//             <p> "In addition, SSLC provided research on various regulations and was able to initiate and secure the appropriate contact in the states of MA, PA, and the District of Columbia that enabled our clinic services to open on strict timelines."</p>
-// 					</div>
-// 				</label></div>
 
 </div>
 
