@@ -19,6 +19,32 @@ const Testimonials = () => (
 
 
 <div className="xsm:w-1/1 sm:w-1/2 md:w-1/2">
+	
+	
+		
+    <div className="testimonial">
+        <label className="accordion">
+		    <input type='checkbox' name='checkbox-accordion'></input>
+		        <div className="accordion__header">
+                    Mike Rutherford, Ph.D
+                    <h6>Namida Labs</h6>
+                </div>
+		    <div className="accordion__content">
+                <h6>Directory of Laboratory Operations</h6>
+                <p>"We approached SSLC early in the process of setting up our CLIA laboratory to deliver our novel biomarker assay to market. While we had significant scientific expertise inhouse, we lacked clinical laboratory and regulatory experience. SSLC walked us through the process of setting up and certifying our CLIA laboratory. This included identifying CLIA roles which could be filled by personnel already on staff and those which required us to look outside of our company.</p>
+	
+	                <p>As a start-up company, time and money are critical to our success. By partnering with SSLC, we easily recouped our monetary investment and shaved months off of the timeline. Their SOP package not only was easy to customize but Glen was always available to answer questions as they arose and to review any SOP we needed.</p>
+	
+	                <p> One of the most significant payoffs of working with SSLC arose when we pivoted to COVID-19 testing just prior to opening our laboratory. SSLC provided the expertise we needed to execute the pivot and expedite our “go-live” timeline. Our partnership with South Shore Laboratory Consultants has proven to be one of the best investments we have made."</p>
+	
+		    </div>
+	    </label>
+    </div>
+	
+	
+	
+	
+	
     <div className="testimonial">
         <label className="accordion">
 		    <input type='checkbox' name='checkbox-accordion'></input>
@@ -145,7 +171,7 @@ const Testimonials = () => (
 				</label>
 </div>
 
-    <div className="testimonial">
+  /*  <div className="testimonial">
         <label className="accordion">
 					<input type='checkbox' name='checkbox-accordion'></input>
 					<div className="accordion__header">Peter Martens, MD
@@ -156,6 +182,10 @@ const Testimonials = () => (
 						<p> "Joanne Lannon has provided expertise in overseeing not only the technical aspects of the lab including reagents and instruments, but also compliance with quality regulations, both state and federal."</p>
 					</div>
 				</label></div>
+				*/
+				
+				
+				
 
     <div className="testimonial">	<label className="accordion">
 					<input type='checkbox' name='checkbox-accordion'></input>
