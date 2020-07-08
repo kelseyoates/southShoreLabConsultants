@@ -170,22 +170,7 @@ const Testimonials = () => (
 					</div>
 				</label>
 </div>
-
-  /*  <div className="testimonial">
-        <label className="accordion">
-					<input type='checkbox' name='checkbox-accordion'></input>
-					<div className="accordion__header">Peter Martens, MD
-          <h6>South Shore Internal Medicine</h6>
-          </div>
-					<div className="accordion__content">
-          <h6>Laboratory Director, South Shore Internal Medicine Associates, Milton, MA</h6>
-						<p> "Joanne Lannon has provided expertise in overseeing not only the technical aspects of the lab including reagents and instruments, but also compliance with quality regulations, both state and federal."</p>
-					</div>
-				</label></div>
-				*/
-				
-				
-				
+								
 
     <div className="testimonial">	<label className="accordion">
 					<input type='checkbox' name='checkbox-accordion'></input>
