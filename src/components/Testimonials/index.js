@@ -27,7 +27,7 @@ const Testimonials = () => (
 		    <input type='checkbox' name='checkbox-accordion'></input>
 		        <div className="accordion__header">
                     Peter H. Reinhart, PhD
-                    <h6>Namida Labs</h6>
+                    <h6>University of Massachusetts</h6>
                 </div>
 		    <div className="accordion__content">
                 <h6>Director, IALS and Clinical Professor, BMB - UMass Amherst</h6>
@@ -46,7 +46,7 @@ const Testimonials = () => (
 		    <input type='checkbox' name='checkbox-accordion'></input>
 		        <div className="accordion__header">
                     Prof. Jared Auclair, PhD
-                    <h6>Namida Labs</h6>
+                    <h6>Northeastern University</h6>
                 </div>
 		    <div className="accordion__content">
                 <h6>Associate Dean of Professional Programs and Graduate Affairs</h6>
