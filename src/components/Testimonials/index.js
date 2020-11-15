@@ -185,7 +185,23 @@ const Testimonials = () => (
 				</label></div>
 
    				
-
+<div className="testimonial">
+		<label className="accordion">
+			<input type='checkbox' name='checkbox-accordion'></input>
+				<div className="accordion__header">
+              				Raaj Venkatesan
+              				<h6>Exosomedx</h6>
+          			</div>
+				<div className="accordion__content">
+				<h6>Vice President of Regulatory Affairs and Quality, Exosome Diagnostics, Inc.</h6>
+              <p>“Joanne and her staff at South Shore Lab Consultants are an all-star team who guided us through the improvement of our existing Quality Management System. Their experience and expertise helped us complete a successful CLIA inspection and licensing in an effective, expeditious and efficient manner.</p>
+              <p>“We had a previous team of consultants from outside the state of Massachusetts who had set up an ineffective Quality Management System. South Shore Lab Consultants were able to come in, perform a gap analysis, suggest corrective actions, and conduct follow-up audits to give us an effective Quality Management System compliant to both State and Federal CLIA regulations.</p>
+              <p>“They carried out a very effective set of mock audits to prepare our Quality Management System for the CLIA inspection. In addition, they coordinated the scheduling of the inspection and facilitated the conduct of the inspection.</p>
+              <p>“As a result, our Quality Management System is sustainable for compliance and for future accreditations/certifications.</p>
+              <p>“They were not looking for short term assignments, but rather sought to understand the business needs and give us a long term sustainable approach to compliance in line with business needs.</p>
+              <p>“Needless to say, we will be using them for our clinical laboratory’s compliance needs. We highly recommend South Shore Laboratory Consultants to other clinical laboratories.”</p>
+					</div>
+				</label></div>
    
 
 
@@ -358,34 +374,25 @@ Deborah DiNoto, M.S.
 				</label></div>
 					
 					
- <div className="testimonial">	<label className="accordion">
-					<input type='checkbox' name='checkbox-accordion'></input>
-					<div className="accordion__header">
-              Raaj Venkatesan
-              <h6>Exosomedx</h6>
-          </div>
-					<div className="accordion__content">
-						<h6>Vice President of Regulatory Affairs and Quality, Exosome Diagnostics, Inc.</h6>
-              <p>“Joanne and her staff at South Shore Lab Consultants are an all-star team who guided us through the improvement of our existing Quality Management System. Their experience and expertise helped us complete a successful CLIA inspection and licensing in an effective, expeditious and efficient manner.</p>
-              <p>“We had a previous team of consultants from outside the state of Massachusetts who had set up an ineffective Quality Management System. South Shore Lab Consultants were able to come in, perform a gap analysis, suggest corrective actions, and conduct follow-up audits to give us an effective Quality Management System compliant to both State and Federal CLIA regulations.</p>
-              <p>“They carried out a very effective set of mock audits to prepare our Quality Management System for the CLIA inspection. In addition, they coordinated the scheduling of the inspection and facilitated the conduct of the inspection.</p>
-              <p>“As a result, our Quality Management System is sustainable for compliance and for future accreditations/certifications.</p>
-              <p>“They were not looking for short term assignments, but rather sought to understand the business needs and give us a long term sustainable approach to compliance in line with business needs.</p>
-              <p>“Needless to say, we will be using them for our clinical laboratory’s compliance needs. We highly recommend South Shore Laboratory Consultants to other clinical laboratories.”</p>
-					</div>
-				</label></div>					
-					 <div className="testimonial">        <label className="accordion">
-					<input type='checkbox' name='checkbox-accordion'></input>
+ 
+	
+					
+					
+		<div className="testimonial">
+			<label className="accordion">
+				<input type='checkbox' name='checkbox-accordion'></input>
 					<div className="accordion__header">Scott Evans, MBA, COE
-          <h6>MERSI</h6>
-          </div>
+          					<h6>MERSI</h6>
+          				</div>
 					<div className="accordion__content">
           <h6>Chief Operating Officer, Massachusetts Eye Research and Surgery Institution, Cambridge, MA</h6>
 						<p>“We have worked with South Shore Laboratory Consultants for close to 10 years. They have consistently managed the regulatory compliance of our CLIA-certified clinical and pathology laboratories in a thorough and professional manner, and with the highest attention to detail.</p>
             <p> "SSLC has helped us to navigate the complexities of the state licensure process, as well as successfully overseeing all of our inspections.</p>
             <p>"I highly recommend SSLC for all your laboratory consulting needs.”</p>
 					</div>
-				</label></div>
+				</label>
+</div>
+					
 
     <div className="testimonial">        <label className="accordion">
 					<input type='checkbox' name='checkbox-accordion'></input>
