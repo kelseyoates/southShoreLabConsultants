@@ -203,7 +203,17 @@ const Testimonials = () => (
 					</div>
 				</label></div>
    
+<div className="testimonial">       <label className="accordion">
+					<input type='checkbox' name='checkbox-accordion'></input>
+					<div className="accordion__header">Michael Laposata, MD, PhD
 
+          <h6>Mass General Hospital</h6>
+          </div>
+					<div className="accordion__content">
+          <h6>Pathologist In-Chief/Laboratory Director, Vanderbilt University School of Medicine, Nashville, TN</h6>
+						<p>"South Shore Laboratory Consultants systematically tackled all the issues in my laboratory at Massachusetts General Hospital. The inspections were amazingly successful and the staff had nothing but praise. I would recommend South Shore Laboratory Consultants highly to anyone who needs help for an inspection."</p>
+					</div>
+				</label></div>
 
 
 </div>
@@ -361,17 +371,7 @@ Deborah DiNoto, M.S.
 					</div>
 				</label></div>
 
-<div className="testimonial">       <label className="accordion">
-					<input type='checkbox' name='checkbox-accordion'></input>
-					<div className="accordion__header">Michael Laposata, MD, PhD
 
-          <h6>Mass General Hospital</h6>
-          </div>
-					<div className="accordion__content">
-          <h6>Pathologist In-Chief/Laboratory Director, Vanderbilt University School of Medicine, Nashville, TN</h6>
-						<p>"South Shore Laboratory Consultants systematically tackled all the issues in my laboratory at Massachusetts General Hospital. The inspections were amazingly successful and the staff had nothing but praise. I would recommend South Shore Laboratory Consultants highly to anyone who needs help for an inspection."</p>
-					</div>
-				</label></div>
 					
 					
  
