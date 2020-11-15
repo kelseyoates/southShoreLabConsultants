@@ -21,7 +21,48 @@ const Testimonials = () => (
 <div className="xsm:w-1/1 sm:w-1/2 md:w-1/2">
 	
 	
+	
+<div className="testimonial">
+        <label className="accordion">
+		    <input type='checkbox' name='checkbox-accordion'></input>
+		        <div className="accordion__header">
+                    Peter H. Reinhart, PhD
+                    <h6>Namida Labs</h6>
+                </div>
+		    <div className="accordion__content">
+                <h6>Director, IALS and Clinical Professor, BMB - UMass Amherst</h6>
+                <p>"UMass Amherst needed to dramatically increase its capacity for COVID-19 testing – requiring the creation of a new CLIA-approved clinical laboratory in about three months.  Achieving this goal would not have been possible without the expert and professional guidance of South Shore Laboratory Consultants (SSLC). </p>
+	
+	                <p>Joanne Lannon, Elizabeth Mullady, and Glenn Bouchie developed templates, provided continuous feedback, and spent significant time in the testing laboratory as this was being created to make sure the space and all associated paperwork were in compliance for a CLIA inspection. </p>
+	
+	                <p>  The laboratory passed its inspection with no deficiencies noted. We look forward to continuing our relationship with SSLC."</p>
+	
+		    </div>
+	    </label>
+    </div>
+	
+	<div className="testimonial">
+        <label className="accordion">
+		    <input type='checkbox' name='checkbox-accordion'></input>
+		        <div className="accordion__header">
+                    Prof. Jared Auclair, PhD
+                    <h6>Namida Labs</h6>
+                </div>
+		    <div className="accordion__content">
+                <h6>Associate Dean of Professional Programs and Graduate Affairs</h6>
+	<h6>Director, of the Biopharmaceutical Analysis and Training Lab (BATL)</h6>
+	<h6>Technical Supervisor, Life Science Training Center (LSTC)</h6>
+                <p>"In late April/early May Northeastern University decided to set-up their own, MA licensed, CLIA certified COVID-19 testing lab.  In so doing, we brought on SSLC to help us with the process.</p>
+	
+	                <p>SSLC, Joanne, Liz, and Glenn, were a pleasure to work with, knowledgeable in all parts of the process, and provided the documents and guidance necessary to achieve our certification.  They were also great teachers for me during the process.  From start to finish we were licensed and CLIA certified in approximately 8 weeks and there is no way we could have done this without the help and guidance of the SSLC team.</p>
+	
+	                <p> I highly recommend their services to one and all."</p>
+	
+		    </div>
+	    </label>
+    </div>
 		
+	
     <div className="testimonial">
         <label className="accordion">
 		    <input type='checkbox' name='checkbox-accordion'></input>
