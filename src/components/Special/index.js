@@ -11,7 +11,8 @@ const Special = () => (
   
 
 <div className="xsm:w-1/1 sm:w-2/3 mx-auto">
-<h3 className="text-center">Let SSLC help you set up your COVID - 19 testing today.</h3>
+  
+<h3 className="text-center special text-white">Let SSLC help you set up your COVID - 19 testing today.</h3>
 <hr />
   <div className= "text-left px-8">
   <p>SSLC can assist you through the regulatory process - to start up a COVID-19 testing laboratory or to add COVID-19 testing to your menu. We have worked successfully with universities, biotechnology companies, and independent clinical labs.</p> 
