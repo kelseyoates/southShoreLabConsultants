@@ -402,6 +402,13 @@ h3 {
   color: #088da5;
 }
 
+h3.special {
+  font-size: 1.5em;
+  font-family: "objektiv-mk1",sans-serif;
+  font-weight: 600;
+  color: #088da5;
+}
+
 h4 {
   font-size: 1.2em;
   color: #088da5;
