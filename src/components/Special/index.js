@@ -10,7 +10,7 @@ const Special = () => (
   <div className = "flex flex-col  bg-teal section">
   
 
-<div className="xsm:w-1/1 sm:w-2/3 align-center">
+<div className="xsm:w-1/1 sm:w-2/3 mx-auto">
 <h3 className="text-center">Let SSLC help you set up your COVID - 19 testing today.</h3>
 <hr />
   <div className= "text-left px-8">
