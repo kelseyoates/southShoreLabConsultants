@@ -59,6 +59,8 @@ const Services = () => (
   <img src={checklistImage} className="x-small"/>
     <h3>New Lab Start-Up</h3>
     <hr className="short" />
+    <h3>Covid Testing</h3>
+    <hr className="short" />
     <h3>Personnel Qualification</h3>
     <hr className="short" />
     <h3>Equipment Evaluation and Validation</h3>
