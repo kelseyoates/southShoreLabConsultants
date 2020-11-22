@@ -13,11 +13,9 @@ const Intro = () => (
   <div className = "flex flex-col  bg-teal section">
   
  
-  <div className="xsm:w-1/1 sm:w-1/4 ">
-</div>
   
 
-<div className="xsm:w-1/1 sm:w-2/4 ">
+<div className="xsm:w-1/1 px-8 ">
 <h3 className="text-center">Let SSLC help you set up your COVID - 19 testing today.</h3>
 <hr />
   <div className= "text-left px-8">
@@ -29,10 +27,6 @@ const Intro = () => (
 
 </div>
   
-  
-  
-  <div className="xsm:w-1/1 sm:w-1/4 ">
-</div>  
   
   
   
