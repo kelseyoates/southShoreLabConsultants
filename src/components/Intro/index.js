@@ -10,7 +10,9 @@ const Intro = () => (
   
   
   
-  <div className = "flex flex-wrap bg-sslc-blue section">
+  <div className = "flex flex-col  bg-teal section">
+  
+ 
   
   
 
