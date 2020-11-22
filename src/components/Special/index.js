@@ -5,7 +5,7 @@ import Link from "gatsby-link";
 
 const Special = () => (
 
-<section id="intro">
+<section id="special">
   
   <div className = "flex flex-col  bg-teal section">
   
