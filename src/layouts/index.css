@@ -389,7 +389,6 @@ h2 {
 
 h2.hero {
   font-size: 2em;
-
   font-family: "objektiv-mk1",sans-serif;
   text-transform: none;
   font-weight: 600;
@@ -615,11 +614,6 @@ button,
   background-color: #99d0d0;
 }
 
-.bg-sslc-blue {
-  background-color: #0065A4;
-}
-
-
 
 .bg-index {
   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, rgba(23,23,23, 0.25)), to(transparent)), url(../images/flasks-606611.jpg);
@@ -752,6 +746,9 @@ hr.short {
   width: 50px;
   margin-bottom: 3em;
 }
+
+
+
 
 /* Services */
 
