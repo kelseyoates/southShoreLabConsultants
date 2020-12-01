@@ -952,14 +952,12 @@ width: auto;
 
 
 .accordion input:checked ~ .accordion__header h6 {
-  background: #056273;
-  border-color: #056273;
+
   color: white;
 }
 
 .accordion input:checked ~ .accordion__header:hover h6 {
-  background-color: #056273;
-  border-color: #056273;
+
   color: white;
 }
 
