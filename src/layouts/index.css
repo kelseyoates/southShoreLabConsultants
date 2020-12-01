@@ -949,6 +949,10 @@ width: auto;
 
 
 
+.accordion__header:hover h6 {
+
+  color: white;
+}
 
 
 .accordion input:checked ~ .accordion__header h6 {
