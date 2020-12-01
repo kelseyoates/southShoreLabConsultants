@@ -901,6 +901,9 @@ width: auto;
   z-index: 2;
   font-size: 1.2em;
 }
+
+
+
 .accordion__header:hover {
   background-color: #056273;
   color: white;
@@ -915,6 +918,8 @@ width: auto;
   position: absolute;
   z-index: 3;
 }
+
+
 .accordion__header:before {
   height: 2px;
   margin-top: -1px;
@@ -934,11 +939,37 @@ width: auto;
   border-color: #056273;
   color: white;
 }
+
 .accordion input:checked ~ .accordion__header:hover {
   background-color: #056273;
   border-color: #056273;
   color: white;
 }
+
+
+
+
+
+
+.accordion input:checked ~ .accordion__header h6 {
+  background: #056273;
+  border-color: #056273;
+  color: white;
+}
+
+.accordion input:checked ~ .accordion__header:hover h6 {
+  background-color: #056273;
+  border-color: #056273;
+  color: white;
+}
+
+
+
+
+
+
+
+
 .accordion input:checked ~ .accordion__header:before {
   background-color: white;
 }
@@ -973,7 +1004,7 @@ width: auto;
   border-radius: 0px 0px 2px 2px;
 }
 .accordion__content h6 {
-  color: #ffffff;
+  color: #088da5;
   font-size: 15px;
   text-align: left;
   font-weight: 600;
