@@ -4,7 +4,7 @@ const Footer = () => (
   <div className="mx-auto section">
     <div className="flex justify-between">
       <p className="footer ">
-      <a href="https://www.kelseyoates.com" className="no-underline text-grey-darkest">&copy; 2020 K/O</a> 
+      <a href="https://www.kelseyoates.com" className="no-underline text-grey-darkest">&copy; 2021 K/O</a> 
       </p>
       <p>
         
